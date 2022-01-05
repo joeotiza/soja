@@ -1,7 +1,7 @@
 # soja
 A server access software that limits the IP addresses that have authorized access.
 
-Have XAMPP preinstalled.
+Have XAMPP and Python 3.X preinstalled.
 
 Start Apache and MySQL from the XAMPP control panel.
 
